@@ -32,7 +32,7 @@ Vulnerability #2: XSS ![link](https://github.com/bjmotox/Week8/blob/master/Week%
 
 Vulnerability #1: IDOR ![Link](https://github.com/bjmotox/Week8/blob/master/Week%208%20Red_IDOR.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: CSRF
 
 
 ## Notes
