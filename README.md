@@ -16,21 +16,21 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: SQLI [Link](https://github.com/bjmotox/Week8/blob/master/Week%208%20Blue_SQLI.gif)
+Vulnerability #1: SQLI ![Link](https://github.com/bjmotox/Week8/blob/master/Week%208%20Blue_SQLI.gif)
 
 Vulnerability #2: __________________
 
 
 ## Green
 
-Vulnerability #1: Username Enumeration [link](https://github.com/bjmotox/Week8/blob/master/Week%208%20Green_Enumeration.gif)
+Vulnerability #1: Username Enumeration ![link](https://github.com/bjmotox/Week8/blob/master/Week%208%20Green_Enumeration.gif)
 
-Vulnerability #2: XSS [link](https://github.com/bjmotox/Week8/blob/master/Week%208%20Green_XSS.gif)
+Vulnerability #2: XSS ![link](https://github.com/bjmotox/Week8/blob/master/Week%208%20Green_XSS.gif)
 
 
 ## Red
 
-Vulnerability #1: IDOR [Link](https://github.com/bjmotox/Week8/blob/master/Week%208%20Red_IDOR.gif)
+Vulnerability #1: IDOR ![Link](https://github.com/bjmotox/Week8/blob/master/Week%208%20Red_IDOR.gif)
 
 Vulnerability #2: __________________
 
