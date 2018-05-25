@@ -18,7 +18,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQLI ![Link](https://github.com/bjmotox/Week8/blob/master/Week%208%20Blue_SQLI.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hijacking ![Link](https://github.com/bjmotox/Week8/blob/master/Week%208%20Blue_SessionHijack.gif)
 
 
 ## Green
